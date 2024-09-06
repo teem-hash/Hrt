@@ -1,0 +1,14 @@
+.bg{
+    background-image: url(pink\ rose.jpeg);
+}
+.bg-1{
+    background-image: url(vintage-wallpaper-73__04935.jpg);
+}
+#button{
+    background-color: rgba(0, 255, 234, 0.767);
+}
+p{
+    color: rgb(255, 0, 234);
+    background-color: rgba(240, 255, 255, 0.623);
+    font-weight: 700;
+}
